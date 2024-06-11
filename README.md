@@ -10,3 +10,8 @@ Langkah Penggunaan Program Kelompok 8, PENDETEKSI BENDA :
   4. lalu run program flask nya
   5. saat tampilan pertama dapat menginputkan gambar / video dengan format (png,jpg,jpeg,gif, mp4)
   6. dan untuk yang menggunakan kamera langsung dapat klik button real time pada tampilan awal pada saat run.
+
+
+Instalali :
+ 1. pip install flask
+ 2. pip intall opencv-python
